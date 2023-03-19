@@ -1,3 +1,9 @@
+function welcome() {
+    console.log("Hello all curious, checking the depths of the code")
+}
+
+welcome();
+
 let formElement = document.querySelector(".js-form");
 let currencyElement = document.querySelector(".js-currency");
 let amountElement = document.querySelector(".js-amount");
